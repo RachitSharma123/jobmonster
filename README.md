@@ -185,6 +185,16 @@ python3 -m compileall -q jobmonster tests
 
 ---
 
+## Video
+
+```bash
+
+https://youtu.be/8W3JU0uplP0
+
+```
+
+---
+
 <div align="center">
 
 Built with [Claude Code](https://claude.ai/code) · Melbourne, AU
