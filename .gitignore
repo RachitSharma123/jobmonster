@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+
+# Browser session data
+data/.browser_profile/
+
+# Run results (contain personal data)
+data/results/
+data/jobs.json
+data/jobs_test.json
+data/results_test.json
+data/review_test.json
+data/api_quota.json
+

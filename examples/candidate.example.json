@@ -1,0 +1,16 @@
+{
+  "first_name": "Rachit",
+  "last_name": "Sharma",
+  "email": "neilrachits@gmail.com",
+  "phone": "0494574561",
+  "location": "Melbourne, VIC",
+  "linkedin": "https://www.linkedin.com/in/rachit-sharma-au",
+  "website": "https://rachitsharma.space",
+  "work_authorized": true,
+  "needs_sponsorship": false,
+  "notice_period": "Immediately",
+  "salary_expectation": "100000",
+  "custom_answers": {
+    "why_this_role": "I build production agentic AI systems and can contribute from day one."
+  }
+}

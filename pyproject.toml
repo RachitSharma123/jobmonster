@@ -1,0 +1,13 @@
+[project]
+name = "JOBMONSTER"
+version = "0.1.0"
+description = "CLI-first external job application planner and assisted filler"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+browser = ["playwright>=1.40.0"]
+
+[tool.setuptools.packages.find]
+include = ["jobmonster*"]
+

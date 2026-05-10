@@ -1,0 +1,21 @@
+[
+  {
+    "title": "AI Engineer",
+    "company": "Greenhouse Demo",
+    "location": "Melbourne, VIC",
+    "apply_url": "https://boards.greenhouse.io/acme/jobs/123456?gh_src=example"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "Lever Demo",
+    "location": "Remote",
+    "apply_url": "https://jobs.lever.co/acme/posting-abc"
+  },
+  {
+    "title": "Solutions Engineer",
+    "company": "Workday Demo",
+    "location": "Melbourne, VIC",
+    "apply_url": "https://acme.wd3.myworkdayjobs.com/Careers/job/Melbourne/123"
+  }
+]
+
